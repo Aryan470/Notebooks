@@ -1,7 +1,7 @@
 dependencies:
   - matplotlib
   - numpy
-  - sklearn
   - pip
   - pip:
       - julia
+      - sklearn
